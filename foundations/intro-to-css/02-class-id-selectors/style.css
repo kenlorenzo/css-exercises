@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.im-class {
+    background-color: rgba(206, 68, 68, 0.538); font-family: verdana, sans-serif, "DejaVu Sans";
+}
+
+#one-id {
+    color: blue; font-size: 36px;
+}
+
+.im-class-two {
+    font-size: 24px;
+}
+
+#two-id {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
